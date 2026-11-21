@@ -1,0 +1,6 @@
+streamlit
+streamlit-drawable-canvas
+torch
+numpy
+pandas
+Pillow
