@@ -154,7 +154,7 @@ if st.button("Predict", type="primary"):
             st.markdown(
                 f"""
                 <div style="font-size: 32px; font-weight: bold; color: #28a745;">
-                    이건 무조건 {predicted_digit} 임
+                    내 생각에 이건: {predicted_digit} 
                 </div>
                 """,
                 unsafe_allow_html=True
